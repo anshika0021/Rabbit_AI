@@ -6,6 +6,9 @@ The app allows users to:
 - "Send" the summary to a provided email (dummy simulation)
 ## Live Frontend Demo
 Frontend deployed on Vercel: [https://rabbitaianshika.vercel.app](https://rabbitaianshika.vercel.app)
+
+<img width="625" height="475" alt="image" src="https://github.com/user-attachments/assets/94e0c318-5b95-4f45-8061-d384db247a38" />
+
 ## Folder Structure
 
 Rabbit_AI/
